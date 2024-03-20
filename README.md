@@ -24,7 +24,7 @@ Sample Output
 
 Copy code:
 
-```python
+```LiteSQL
 AdvisorID  AdvisorName  NumberOfStudents
 3          Raj Shetty   2
 4          Sam Reeds    2
