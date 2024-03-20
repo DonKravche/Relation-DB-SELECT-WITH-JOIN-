@@ -21,14 +21,17 @@ A query is executed to display the number of students each advisor has.
 The script commits changes to the database and closes the connection.
 
 Sample Output
+
 Copy code:
 
+```python
 AdvisorID  AdvisorName  NumberOfStudents
 3          Raj Shetty   2
 4          Sam Reeds    2
 1          John Paul    3
 2          Anthony Roy  3
 5          Arthur Clintwood  0
+```
 
 # Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
